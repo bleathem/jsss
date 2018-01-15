@@ -1,0 +1,28 @@
+{
+  "name": "jsss",
+  "version": "1.0.0",
+  "description": "Javascript Solver/Scrambler Suite",
+  "main": "scramble_222.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cubing/jsss.git"
+  },
+  "keywords": [
+    "jsss",
+    "cubing",
+    "scramble",
+    "generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cubing/jsss/issues"
+  },
+  "homepage": "https://github.com/cubing/jsss#readme"
+}
